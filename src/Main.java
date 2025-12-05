@@ -55,7 +55,7 @@ public class Main {
 
         System.out.println();
 
-        // ========== 4. PENGEMBALIAN BUKU ==========
+
         System.out.println("=== PENGEMBALIAN BUKU ===");
         trx3.processReturn("04-12-2025");
         trx4.processReturn("03-12-2025");
@@ -64,7 +64,7 @@ public class Main {
 
         System.out.println();
 
-        // ========== 5. DEMONSTRASI ENCAPSULATION ==========
+
         System.out.println("=== DEMONSTRASI ENCAPSULATION ===");
         System.out.println("Mengubah email member1 menggunakan setter:");
         System.out.println("Email lama: " + member1.getEmail());

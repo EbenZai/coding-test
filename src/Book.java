@@ -87,10 +87,7 @@ public class Book {
     public String getTitle() { return title; }
     public String getAuthor() { return author; }
     public String getCategory() { return category; }
-    public int getPublicationYear() { return publicationYear; }
-    public boolean isAvailable() { return isAvailable; }
-    public int getTotalCopies() { return totalCopies; }
-    public int getAvailableCopies() { return availableCopies; }
+
 
 
     public void setTitle(String title) {
